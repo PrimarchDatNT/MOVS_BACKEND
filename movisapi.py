@@ -4,6 +4,8 @@ import os.path
 import datamapper as mapper
 from flask import request
 from flask import Flask
+from gevent.pywsgi import WSGIServer
+
 
 app = Flask(__name__)
 app.config["DEBUG"] = False
@@ -61,4 +63,5 @@ if __name__ == '__main__':
     hostname = socket.gethostname()
     local_ip = socket.gethostbyname(hostname)
     print(local_ip)
-    app.run()
+    http_server = WSGIServer(('', 5000), app)
+    http_server.serve_forever()
