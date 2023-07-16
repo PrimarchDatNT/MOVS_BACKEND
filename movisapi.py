@@ -62,5 +62,6 @@ if __name__ == '__main__':
     hostname = socket.gethostname()
     local_ip = socket.gethostbyname(hostname)
     print(local_ip)
-    server = wsgiserver.WSGIServer(app)
-    server.start()
+    # server = wsgiserver.WSGIServer(app)
+    # server.start()
+    app.run()
