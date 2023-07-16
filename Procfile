@@ -1,1 +1,1 @@
-web: gunicorn movis:app
+web: gunicorn wsgi:app
