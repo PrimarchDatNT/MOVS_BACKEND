@@ -61,4 +61,4 @@ if __name__ == '__main__':
     hostname = socket.gethostname()
     local_ip = socket.gethostbyname(hostname)
     print(local_ip)
-    app.run(host=local_ip, port=5000, debug=True, threaded=False)
+    app.run()
