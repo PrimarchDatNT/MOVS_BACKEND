@@ -8,7 +8,7 @@ source_category_dict = {
     'transition': 'cate/transition.json',
     'background': 'cate/background.json',
     'font': 'cate/font.json',
-    'audio': 'cate/audio_alt.json',
+    'audio': 'cate/audio.json',
 }
 
 source_detail_dict = {
