@@ -3,7 +3,7 @@
   "count": 6,
   "data": [
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/text/kool/thumb.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/text_imgs/videodata/text/kool/1.webp",
       "event": "{\"code\":\"1110\",\"parameter\":\"{}\"}",
       "expireTime": 32503651199000,
       "groupCode": "202011131630028507",
@@ -19,7 +19,7 @@
       "title": "Cool"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/text/pallete/thumb.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/text_imgs/videodata/text/pallete/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201911261114582400",
@@ -35,7 +35,7 @@
       "title": "Pallete"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/text/talk/thumb.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/text_imgs/videodata/text/talk/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912261401325067",
@@ -51,7 +51,7 @@
       "title": "Talk"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/text/motion/thumb.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/text_imgs/videodata/text/motion/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912261407233677",
@@ -67,7 +67,7 @@
       "title": "Motion"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/text/yummy/thumb.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/text_imgs/videodata/text/yummy/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201911291313409169",
@@ -83,7 +83,7 @@
       "title": "Yummy"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/text/journey/thumb.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/text_imgs/videodata/text/journey/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201911291313414570",

@@ -1,11 +1,11 @@
 {
   "classlist": [
     {
-      "cover": "http://rc.veresource.com/vcm/20180531/10290101/2018053110290101.png",
+      "cover": "file:///android_asset/ic_audio.png",
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2002004,
       "orderno": 0,
-      "classname": "For You",
+      "classname": "Sound effect 1",
       "copyrightFlag": 0
     },
     {
@@ -13,7 +13,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001511,
       "orderno": 1,
-      "classname": "People",
+      "classname": "Sound effect 2",
       "copyrightFlag": 0
     },
     {
@@ -21,7 +21,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001515,
       "orderno": 2,
-      "classname": "Ding Dong",
+      "classname": "Sound effect 3",
       "copyrightFlag": 0
     },
     {
@@ -29,7 +29,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001513,
       "orderno": 3,
-      "classname": "Wild Life",
+      "classname": "Sound effect 4",
       "copyrightFlag": 0
     },
     {
@@ -37,7 +37,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001505,
       "orderno": 4,
-      "classname": "Fighting",
+      "classname": "Sound effect 5",
       "copyrightFlag": 0
     },
     {
@@ -45,7 +45,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001512,
       "orderno": 5,
-      "classname": "Musical",
+      "classname": "Sound effect 6",
       "copyrightFlag": 0
     },
     {
@@ -53,7 +53,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001510,
       "orderno": 6,
-      "classname": "Big Bang",
+      "classname": "Sound effect 7",
       "copyrightFlag": 0
     },
     {
@@ -61,7 +61,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001506,
       "orderno": 7,
-      "classname": "Twinkle",
+      "classname": "Sound effect 8",
       "copyrightFlag": 0
     },
     {
@@ -69,7 +69,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001516,
       "orderno": 8,
-      "classname": "Sound Effects",
+      "classname": "Sound effect 9",
       "copyrightFlag": 0
     },
     {
@@ -77,7 +77,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001507,
       "orderno": 9,
-      "classname": "Engine",
+      "classname": "Sound effect 10",
       "copyrightFlag": 0
     },
     {
@@ -85,7 +85,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001517,
       "orderno": 10,
-      "classname": "Device",
+      "classname": "Sound effect 11",
       "copyrightFlag": 0
     },
     {
@@ -93,7 +93,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001508,
       "orderno": 11,
-      "classname": "Door & Window",
+      "classname": "Sound effect 12",
       "copyrightFlag": 0
     },
     {
@@ -101,7 +101,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001509,
       "orderno": 12,
-      "classname": "Special Sound",
+      "classname": "Sound effect 13",
       "copyrightFlag": 0
     },
     {
@@ -109,7 +109,7 @@
       "extend": "{\"isNew\": \"0\"}",
       "classid": 2001514,
       "orderno": 13,
-      "classname": "More",
+      "classname": "Sound effect 14",
       "copyrightFlag": 0
     }
   ]

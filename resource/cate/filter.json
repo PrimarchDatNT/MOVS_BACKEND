@@ -3,7 +3,7 @@
   "count": 16,
   "data": [
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/koko/1a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/koko/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202002051702486619",
@@ -19,7 +19,7 @@
       "title": "Koko"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/dolce/1a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/dolce/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202008131143278549",
@@ -35,7 +35,7 @@
       "title": "Dolce"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/kylie/8a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/kylie/8a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721246949",
@@ -51,7 +51,7 @@
       "title": "Kylie"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/canvas/5a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/canvas/5a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202010271859565449",
@@ -67,7 +67,7 @@
       "title": "Canvas"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/vangogh/7a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/vangogh/7a.webp",
       "event": "{\"code\":\"1110\",\"parameter\":\"{}\"}",
       "expireTime": 32503651199000,
       "groupCode": "202010271914388744",
@@ -83,7 +83,7 @@
       "title": "Vangogh"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/sketch/5a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/sketch/5a.webp",
       "event": "",
       "expireTime": 1630583302000,
       "groupCode": "202009021948272310",
@@ -99,7 +99,7 @@
       "title": "Sketch"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/posie/4a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/posie/4a.webp",
       "event": "",
       "expireTime": 1632729178000,
       "groupCode": "202009031553042640",
@@ -115,7 +115,7 @@
       "title": "Posie"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/maliboo/7a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/maliboo/7a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202002171059566513",
@@ -131,7 +131,7 @@
       "title": "Maliboo"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/california/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/california/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "20200213164635582",
@@ -147,7 +147,7 @@
       "title": "California"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/tokyo/4a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/tokyo/4a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721256128",
@@ -163,7 +163,7 @@
       "title": "Tokyo"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/london/1a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/london/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721267851",
@@ -179,7 +179,7 @@
       "title": "London"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/towngirl/1a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/towngirl/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721271427",
@@ -195,7 +195,7 @@
       "title": "Town Girl"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/yummy/5a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/yummy/5a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721253656",
@@ -211,7 +211,7 @@
       "title": "Yummy"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/kim/1a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/kim/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721277372",
@@ -227,7 +227,7 @@
       "title": "Kim"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/lush/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/lush/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001131721283317",
@@ -243,11 +243,11 @@
       "title": "Lush"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/frame/1a.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/frame/1a.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202002131648231009",
-      "icon": "https://d2hyio9ps90xn9.cloudfront.net/videodata/filter/frame/1a.webp",
+      "icon": "https://d3pldjsx7tl7ei.cloudfront.net/filter_imgs/videodata/filter/frame/1a.webp",
       "intro": "",
       "model": "videoshow_normalfilter",
       "newcount": 0,

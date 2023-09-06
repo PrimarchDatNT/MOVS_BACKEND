@@ -3,11 +3,11 @@
   "count": 5,
   "data": [
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/floral/9.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/floral/9.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202003091839491070",
-      "icon": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/floral/9.webp",
+      "icon": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/floral/9.webp",
       "intro": "",
       "model": "videoshow_background",
       "newcount": 0,
@@ -19,11 +19,11 @@
       "title": "Floral"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/pattern/13.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/pattern/13.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912181535367948",
-      "icon": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/pattern/13.webp",
+      "icon": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/pattern/13.webp",
       "intro": "",
       "model": "videoshow_background",
       "newcount": 0,
@@ -35,7 +35,7 @@
       "title": "Pattern"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/art/6.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/art/6.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "20191218153538663",
@@ -51,7 +51,7 @@
       "title": "Art"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/lights/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/lights/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912181535392275",
@@ -67,7 +67,7 @@
       "title": "Lights"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/background/background/12.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/background_imgs/videodata/background/background/12.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912181535403192",

@@ -3,7 +3,7 @@
   "count": 6,
   "data": [
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/effect/light/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/effect_imgs/videodata/effect/light/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202002141740194834",
@@ -19,7 +19,7 @@
       "title": "Light"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/effect/beat/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/effect_imgs/videodata/effect/beat/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912131726199380",
@@ -35,7 +35,7 @@
       "title": "Beat"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/effect/retro/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/effect_imgs/videodata/effect/retro/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202001191933003833",
@@ -51,7 +51,7 @@
       "title": "Retro"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/effect/film/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/effect_imgs/videodata/effect/film/1.webp",
       "event": "{\"code\":\"1110\",\"parameter\":\"{}\"}",
       "expireTime": 32503651199000,
       "groupCode": "202001201128075153",
@@ -67,7 +67,7 @@
       "title": "Film"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/effect/electric/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/effect_imgs/videodata/effect/electric/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202008031149277255",
@@ -83,7 +83,7 @@
       "title": "Electric"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/effect/funny/1.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/effect_imgs/videodata/effect/funny/1.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912161050411071",
