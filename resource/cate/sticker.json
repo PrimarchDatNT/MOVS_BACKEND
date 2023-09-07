@@ -3,7 +3,7 @@
   "count": 8,
   "data": [
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/emoticon.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/emoticon.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912261444167781",
@@ -19,7 +19,7 @@
       "title": "Emoticon"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/troll.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/troll.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "202012131026257441",
@@ -35,7 +35,7 @@
       "title": "Troll"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/led.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/led.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912301701567433",
@@ -51,7 +51,7 @@
       "title": "LED"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/cool.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/cool.webp",
       "event": "{\"code\":\"0\",\"parameter\":\"{}\"}",
       "expireTime": 32503651199000,
       "groupCode": "20200413195201513",
@@ -67,7 +67,7 @@
       "title": "Cool"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/fun.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/fun.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201911281414075433",
@@ -83,7 +83,7 @@
       "title": "Fun"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/dirrection.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/dirrection.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912301702047614",
@@ -99,7 +99,7 @@
       "title": "Direction"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/yummy.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/yummy.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912301701484958",
@@ -115,7 +115,7 @@
       "title": "Yummy"
     },
     {
-      "banner": "https://d2hyio9ps90xn9.cloudfront.net/videodata/sticker/effect.webp",
+      "banner": "https://d3pldjsx7tl7ei.cloudfront.net/sticker_imgs/banner/effect.webp",
       "event": "",
       "expireTime": 32503651199000,
       "groupCode": "201912301702011133",
