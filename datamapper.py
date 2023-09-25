@@ -66,6 +66,7 @@ source_detail_dict = {
     '202012131026257441': 'detail/sticker/Troll.json',
     '201912301701567433': 'detail/sticker/LED.json',
     '20200413195201513': 'detail/sticker/Cool.json',
+    '201911281414075433': 'detail/sticker/Fun.json',
     '201912301702047614': 'detail/sticker/Direction.json',
     '201912301701484958': 'detail/sticker/Yummy.json',
     '201912301702011133': 'detail/sticker/FX.json',
