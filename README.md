@@ -44,7 +44,7 @@ You can find your API Gateway Endpoint URL in the output values displayed after 
 ## Upload folder resource to S3
 After deploy movis-backend API, you need upload resource folder to S3 for getting requests. Use AWS CLI to upload them:
 ```bash
-aws s3 cp s3 cp .\\resource\\ s3://movis-data/resource/ --recursive
+aws s3 cp s3 cp .\resource\ s3://movis-data/resource/ --recursive
 ```
 
 ## Use the SAM CLI to build and test locally
