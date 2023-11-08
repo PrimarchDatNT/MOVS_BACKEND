@@ -1,0 +1,87 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  MOVS_BACKEND
+
+  Sample SAM Template for MOVS_BACKEND
+
+# More info about Globals: https://github.com/awslabs/serverless-application-model/blob/master/docs/globals.rst
+Globals:
+  Function:
+    Timeout: 3
+    MemorySize: 128
+
+Resources:
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: movis-data
+  GetDetailFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      CodeUri: .
+      Handler: movisapi.get_detail_handler
+      Runtime: python3.11
+      Environment:
+        Variables:
+          BUCKET_NAME: !Ref S3Bucket
+      Architectures:
+      - x86_64
+      Policies:
+      - S3ReadPolicy:
+          BucketName:
+            !Ref S3Bucket
+      Events:
+        GetDetail:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /getDetail
+            Method: get
+  GetCateFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      CodeUri: .
+      Handler: movisapi.get_cate_handler
+      Runtime: python3.11
+      Environment:
+        Variables:
+          BUCKET_NAME: !Ref S3Bucket
+      Architectures:
+      - x86_64
+      Policies:
+      - S3ReadPolicy:
+          BucketName:
+            !Ref S3Bucket
+      Events:
+        GetCate:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /getCate
+            Method: get
+
+  ApplicationResourceGroup:
+    Type: AWS::ResourceGroups::Group
+    Properties:
+      Name:
+        Fn::Sub: ApplicationInsights-SAM-${AWS::StackName}
+      ResourceQuery:
+        Type: CLOUDFORMATION_STACK_1_0
+  ApplicationInsightsMonitoring:
+    Type: AWS::ApplicationInsights::Application
+    Properties:
+      ResourceGroupName:
+        Ref: ApplicationResourceGroup
+      AutoConfigurationEnabled: 'true'
+Outputs:
+  # ServerlessRestApi is an implicit API created out of Events key under Serverless::Function
+  # Find out more about other implicit resources you can reference within SAM
+  # https://github.com/awslabs/serverless-application-model/blob/master/docs/internals/generated_resources.rst#api
+  GetDetailApi:
+    Description: API Gateway endpoint URL for Prod stage for GetDetail function
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/getDetail/"
+  GetCateApi:
+    Description: API Gateway endpoint URL for Prod stage for GetDetail function
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/getCate/"
+  GetDetailIamRole:
+    Description: Implicit IAM Role created for Hello World function
+    Value: !GetAtt GetDetailFunctionRole.Arn
