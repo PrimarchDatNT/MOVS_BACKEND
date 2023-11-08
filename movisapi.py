@@ -31,7 +31,7 @@ def get_detail_handler(event, context):
         result_dict['data'] = data_detail
         return {
             "statusCode": 200,
-            "body": json.dump(result_dict)
+            "body": json.dumps(result_dict)
         }
     else:
         if mapper.source_detail_dict.__contains__(groupcode_arg):
