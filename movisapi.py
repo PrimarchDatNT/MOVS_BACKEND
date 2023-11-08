@@ -44,7 +44,6 @@ def get_detail_handler(event, context):
                 "statusCode": 200,
                 "body": json.dumps(json_data)
             }
-
     return get_default_response(404)
 
 def get_cate_handler(event, context):
@@ -62,7 +61,8 @@ def get_cate_handler(event, context):
             "statusCode": 200,
             "body": json.dumps(json_data)
         }
-
+    return get_default_response(404)
+    
 def get_default_response(code):
     match code:
         case 400:
